@@ -1,4 +1,4 @@
-{{
+{
   "short_name": "{title}",
   "name": "{title}",
   "display": "standalone",
@@ -6,13 +6,13 @@
   "background_color": "black",
   "theme_color": "black",
   "icons": [
-    {{
+    {
       "src": "nsb/images/192.png",
       "sizes": "192x192"
-    }},
-    {{
+    },
+    {
       "src": "nsb/images/512.png",
       "sizes": "512x512"
-    }}
+    }
   ]
-}}
+}
